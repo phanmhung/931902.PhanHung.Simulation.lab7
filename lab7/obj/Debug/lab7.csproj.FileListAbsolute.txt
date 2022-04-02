@@ -1,0 +1,11 @@
+C:\Users\MSI_1\Desktop\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\MSI_1\Desktop\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\MSI_1\Desktop\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\MSI_1\Desktop\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+C:\Users\MSI_1\Desktop\lab7\lab7\obj\Debug\lab7.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI_1\Desktop\lab7\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\MSI_1\Desktop\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\MSI_1\Desktop\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+C:\Users\MSI_1\Desktop\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\MSI_1\Desktop\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\MSI_1\Desktop\lab7\lab7\obj\Debug\lab7.pdb
